@@ -1,0 +1,24 @@
+{"identities": [
+    {
+      "account_name": "bijihadina",
+      "account_id": 233,
+      "deal_id": null,
+      "email": "guy@infinigrow.com",
+      "contact_id": 1
+    },
+    {
+      "account_name": "infinigrow",
+      "account_id": 243,
+      "deal_id": 23,
+      "email": "dor@infinigrow.com",
+      "contact_id": 2
+    },
+   {
+      "account_name": null,
+      "account_id": null,
+      "deal_id": 23,
+      "email": "lee@gmail.com",
+      "contact_id": null
+   }
+  ]
+}

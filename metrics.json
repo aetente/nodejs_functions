@@ -1,0 +1,78 @@
+{"metricsCustomFilters": {
+    "metric1": [{
+        "kind": "custom",
+        "data": {
+            "fieldIndex": 4,
+            "variant": 0,
+            "selectedOptions": ["End Customer"]
+        }
+    }, {
+        "kind": "custom",
+        "data": {
+            "fieldIndex": 5,
+            "variant": 2,
+            "selectedOptions": ["true"]
+        }
+    }],
+    "metric2": [{
+        "kind": "custom",
+        "data": {
+            "fieldIndex": 4,
+            "variant": 0,
+            "selectedOptions": ["End Customer"]
+        }
+    }, {
+        "kind": "custom",
+        "data": {
+            "fieldIndex": 5,
+            "variant": 2,
+            "selectedOptions": ["true"]
+        }
+    }],
+    "metric3": [{
+        "kind": "custom",
+        "data": {
+            "fieldIndex": 4,
+            "variant": 0,
+            "selectedOptions": ["End Customer"]
+        }
+    }, {
+        "kind": "custom",
+        "data": {
+            "fieldIndex": 5,
+            "variant": 2,
+            "selectedOptions": ["true"]
+        }
+    }],
+    "metric4": [{
+        "kind": "custom",
+        "data": {
+            "fieldIndex": 2,
+            "variant": 2,
+            "selectedOptions": ["Channel Led"]
+        }
+    }, {
+        "kind": "custom",
+        "data": {
+            "fieldIndex": 3,
+            "variant": 0,
+            "selectedOptions": ["New Customer", "Upsell"]
+        }
+    }],
+    "metric5": [{
+        "kind": "custom",
+        "data": {
+            "fieldIndex": 2,
+            "variant": 2,
+            "selectedOptions": ["Channel Led"]
+        }
+    }, {
+        "kind": "custom",
+        "data": {
+            "fieldIndex": 3,
+            "variant": 0,
+            "selectedOptions": ["New Customer", "Upsell"]
+        }
+    }]
+}
+}
